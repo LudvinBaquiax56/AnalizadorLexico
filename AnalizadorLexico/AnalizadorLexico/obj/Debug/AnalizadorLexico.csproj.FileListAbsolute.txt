@@ -1,0 +1,10 @@
+C:\Users\Baquiax\Documents\Ludvin\AnalizadorLexico\AnalizadorLexico\bin\Debug\AnalizadorLexico.exe.config
+C:\Users\Baquiax\Documents\Ludvin\AnalizadorLexico\AnalizadorLexico\bin\Debug\AnalizadorLexico.exe
+C:\Users\Baquiax\Documents\Ludvin\AnalizadorLexico\AnalizadorLexico\bin\Debug\AnalizadorLexico.pdb
+C:\Users\Baquiax\Documents\Ludvin\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csprojAssemblyReference.cache
+C:\Users\Baquiax\Documents\Ludvin\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.Ventana.resources
+C:\Users\Baquiax\Documents\Ludvin\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.Properties.Resources.resources
+C:\Users\Baquiax\Documents\Ludvin\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csproj.GenerateResource.cache
+C:\Users\Baquiax\Documents\Ludvin\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csproj.CoreCompileInputs.cache
+C:\Users\Baquiax\Documents\Ludvin\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.exe
+C:\Users\Baquiax\Documents\Ludvin\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.pdb
